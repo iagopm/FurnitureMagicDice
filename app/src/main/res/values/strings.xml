@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LaLeyDelDadoAppOficial</string>
+    <string name="switch_zero">Index from zero</string>
+    <string name="roll">Roll</string>
+    <string name="add_dice">New dice</string>
+    <string name="title_activity_add_new_dice">AddNewDice</string>
+    <string name="create">Create</string>
+    <string name="delete_all">Delete all</string>
+    <string name="add_a_new_dice_first">Add a new dice first</string>
+    <string name="dice_already_exists">Dice already exists</string>
+</resources>
