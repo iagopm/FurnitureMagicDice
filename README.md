@@ -1,3 +1,3 @@
 # FurnitureMagicDice
-# Public dice app that relies on SQLite in order to store them
-# Min api 22
+ Public dice app that relies on SQLite(using Room library) in order to persist the dices.
+ Min api 22
